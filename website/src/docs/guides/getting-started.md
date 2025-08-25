@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Getting started Anon
 titleTemplate: Guides
 description: Essential information to help you get set up with Mihon.
 ---
